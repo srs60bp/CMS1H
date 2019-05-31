@@ -1,51 +1,10 @@
 # CMS1H
-
-Skip to content
-Pull requests
-Issues
-Marketplace
-Explore
-@srs60
-
-1
-0
-
-    0
-
-srs60/CMS1H
-Code
-Issues 0
-Pull requests 0
-Projects 0
-Wiki
-Security
-Insights
-Settings
 CMS for 1 H
+=============================================
 
-3 commits
-1 branch
-0 releases
-
-    1 contributor
-
-    PHP 93.4% CSS 6.6% 
-
-@srs60
-srs60 Update README.md
-Latest commit 7d041ff 8 days ago
-Type 	Name 	Latest commit message 	Commit time
-	admin 	CMS for 1 H initial code 	2 months ago
-	includes 	CMS for 1 H initial code 	2 months ago
-	README.md 	Update README.md 	8 days ago
-	article.php 	CMS for 1 H initial code 	2 months ago
-	index.php 	CMS for 1 H initial code 	2 months ago
-	style.css 	CMS for 1 H initial code 	2 months ago
-README.md
-CMS1H
-CMS for 1 H
-Simple PHP Shopping Cart Last modified on September 1st, 2018 by Vincy.
-
+Simple PHP Shopping Cart
+Last modified on September 1st, 2018 by Vincy.
+=============================================
 https://phppot.com/php/simple-php-shopping-cart/
 
 Building a PHP shopping cart eCommerce software is simple and easy. In this tutorial, let’s create a simple PHP shopping cart software with MySQL. This shopping cart application is purposely kept simple and as minimal as possible. You can download this and quickly customize it for your needs.
